@@ -24,10 +24,10 @@ while (true)
         {
 
             case "help":
-                Console.WriteLine("Commands:/n" +
-                    "readlist - reads the items of the list./n" +
-                    "additem - add a item in the list. The structure of the command is: additem (item) (color number)." +
-                    "removeitem - removes a item from the list. The structure of the command is: removeitem (name of the item) ");
+                Console.WriteLine("Commands:\n" +
+                    "readlist - reads the items of the list.\n" +
+                    "additem - add a item in the list. The structure of the command is: additem (item) (color number). \n" +
+                    "removeitem - removes a item from the list. The structure of the command is: removeitem (name of the item) \n");
                 break;
 
         }
